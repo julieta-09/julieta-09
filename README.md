@@ -1,6 +1,6 @@
 
-# 🎧 Julieta Castro Alarcón
-**Estudiante de Ingeniería de Sonido | Apoyo en Sonido en Vivo & Logística de Eventos**
+#  Julieta Castro Alarcón
+**Estudiante de Ingeniería de Sonido | Apoyo en Logística de Eventos**
 
  Medellín, Colombia  
 [![Inglés B2](https://img.shields.io/badge/Ingl%C3%A9s-B2%20Certificado-brightgreen?style=flat-square)](https://github.com/user-attachments/assets/d1f3b167-2573-4e74-98c0-598cc78ccfaa)
