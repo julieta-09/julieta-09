@@ -15,12 +15,12 @@ Estudiante de segundo semestre de Ingeniería de Sonido con un interés hacia la
 ##  Formación Académica
 
 * **Ingeniería de Sonido** | *Universidad de San Buenaventura* (2.º Semestre - En curso)
-  - *Formación inicial:* Fundamentos de acústica, física, cálculo y teoría musical.
+  - *Formación inicial:* Física, cálculo y teoría musical.
 * **Bachiller Académico** | *I.E Inmaculada* (2025)
 
 ---
 
-##  Idiomas & Certificaciones
+##  Certificaciones
 
 * **Inglés:** Nivel B2 (Certificado) — Capacidad para comunicación fluida  y lectura de manuales de equipos.
 
